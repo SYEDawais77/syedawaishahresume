@@ -12,7 +12,16 @@
 
 body{
     margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
     background-color: rgba(17, 217, 144, 0.715);
+    text-align: justify;
+    font-size: 20px;
+}
+
+#education-heading{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-weight: bold;
     text-align: center;
-    
 }
